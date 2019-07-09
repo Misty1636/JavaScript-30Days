@@ -16,5 +16,6 @@
   minHand.style.transform = `rotate(${m}deg)`;
   secHand.style.transform = `rotate(${s}deg)`;
 
-  setTimeout(clock, 1000);
+  // setTimeout(clock, 1000); 動畫效果較差
+  window.requestAnimationFrame(clock);
 }());
