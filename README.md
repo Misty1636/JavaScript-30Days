@@ -5,3 +5,6 @@ Day 1 - [Demo](https://misty1636.github.io/JavaScript-30Days/01%20-%20JavaScript
 Day 2 - [Demo](https://misty1636.github.io/JavaScript-30Days/02%20-%20JS%20and%20CSS%20Clock/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-2-8d95b09cbb32)
 
 Day 3 - [Demo](https://misty1636.github.io/JavaScript-30Days/03%20-%20CSS%20Variables/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-3-b14ac5f95881)
+
+Day 4 - [Demo](https://misty1636.github.io/JavaScript-30Days/04%20-%20Array%20Cardio%20Day%201/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-4-d58ecce35ac1)
+
