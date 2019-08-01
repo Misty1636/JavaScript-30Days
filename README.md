@@ -10,4 +10,4 @@ Day 4 - [Demo](https://misty1636.github.io/JavaScript-30Days/04%20-%20Array%20Ca
 
 Day 5 - [Demo](https://misty1636.github.io/JavaScript-30Days/05%20-%20Flex%20Panel%20Gallery/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-5-84df8bc66f8c)
 
-Day 6 - [Demo](https://misty1636.github.io/JavaScript-30Days/05%20-%20Flex%20Panel%20Gallery/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-5-84df8bc66f8c)
+Day 6 - [Demo](https://misty1636.github.io/JavaScript-30Days/06%20-%20Type%20Ahead/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-5-84df8bc66f8c)
