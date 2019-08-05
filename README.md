@@ -15,3 +15,5 @@ Day 5 - [Demo](https://misty1636.github.io/JavaScript-30Days/05%20-%20Flex%20Pan
 Day 6 - [Demo](https://misty1636.github.io/JavaScript-30Days/06%20-%20Type%20Ahead/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-6-103cacc8c722)
 
 Day 7 - [Demo](https://misty1636.github.io/JavaScript-30Days/07%20-%20Array%20Cardio%20Day%202/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-7-c61bad053654)
+
+Day 8 - [Demo](https://misty1636.github.io/JavaScript-30Days/08%20-%20Fun%20with%20HTML5%20Canvas/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-8-15d03dea0bcb)
