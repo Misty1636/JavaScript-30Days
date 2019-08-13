@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Day 9</title>
+</head>
+<body>
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    let console = { // 封裝，好處可一次關閉 console
+      isdev: true,
+      log(...args) {
+        if(!this.isdev) return;
+        window.console.log(...args);
+      },
+      warn(...args) {
+        if(!this.isdev) return;
+        window.console.warn(...args);
+      },
+      error(...args) {
+        if(!this.isdev) return;
+        window.console.error(...args);
+      },
+      info(...args) {
+        if(!this.isdev) return;
+        window.console.info(...args);
+      },
+      assert(...args) {
+        if(!this.isdev) return;
+        window.console.assert(...args);
+      },
+      clear(...args) {
+        if(!this.isdev) return;
+        window.console.clear(...args);
+      },
+      dir(...args) {
+        if(!this.isdev) return;
+        window.console.dir(...args);
+      },
+      groupCollapsed(...args) {
+        if(!this.isdev) return;
+        window.console.groupCollapsed(...args);
+      },
+      groupEnd(...args) {
+        if(!this.isdev) return;
+        window.console.groupEnd(...args);
+      },
+      count(...args) {
+        if(!this.isdev) return;
+        window.console.count(...args);
+      },
+      time(...args) {
+        if(!this.isdev) return;
+        window.console.time(...args);
+      },
+      timeEnd(...args) {
+        if(!this.isdev) return;
+        window.console.timeEnd(...args);
+      },
+      table(...args) {
+        if(!this.isdev) return;
+        window.console.table(...args);
+      }
+    }
+
+    // Regular
+    console.log('Hello');
+
+    // Interpolated
+    console.log('I am %s man','super');
+    console.log('I have %d dollars', 500);
+
+    // Styled
+    console.log('%c 住手!','font-size: 50px; color: red;')
+
+    // warning!
+    console.warn('警告');
+
+    // Error :|
+    console.error('錯誤');
+
+    // Info
+    console.info('跟 log 一樣');
+
+    // Testing
+    const p = document.querySelector('p');
+    console.assert(p.classList.contains('ouch'), 'Fail');
+
+    // clearing
+    console.clear();
+    // ctrl + L 快捷鍵清除
+
+
+    // Viewing DOM Elements
+    console.log(p);
+    console.dir(p);
+
+    // Grouping together
+    dogs.forEach(dog => {
+      console.groupCollapsed(`${dog.name}`);
+      console.log(`This is ${dog.name}`);
+      console.log(`${dog.name} is ${dog.age} years old`);
+      console.log(`${dog.name} is ${dog.age * 7} dog years old`);
+      console.groupEnd(`${dog.name}`);
+    });
+
+    // counting
+    console.count('Wes');
+    console.count('Wes');
+    console.count('Steve');
+    console.count('Steve');
+    console.count('Wes');
+    console.count('Steve');
+    console.count('Wes');
+    console.count('Steve');
+    console.count('Steve');
+    console.count('Steve');
+    console.count('Steve');
+    console.count('Steve');
+
+    // timing
+    console.time('fetching data');
+    fetch('https://api.github.com/users/wesbos')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd('fetching data');
+        console.log(data);
+      });
+
+    console.table(dogs);
+
+    console.time('Test');
+    const ary = [];
+    for(let i = 0; i < 10000000; i++) {
+      ary.push(i);
+    }
+    console.timeEnd('Test');
+
+  </script>
+</body>
+</html>
