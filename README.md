@@ -17,3 +17,6 @@ Day 6 - [Demo](https://misty1636.github.io/JavaScript-30Days/06%20-%20Type%20Ahe
 Day 7 - [Demo](https://misty1636.github.io/JavaScript-30Days/07%20-%20Array%20Cardio%20Day%202/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-7-c61bad053654)
 
 Day 8 - [Demo](https://misty1636.github.io/JavaScript-30Days/08%20-%20Fun%20with%20HTML5%20Canvas/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-8-15d03dea0bcb)
+
+Day 9 - [Demo](https://misty1636.github.io/JavaScript-30Days/09%20-%20Dev%20Tools%20Domination/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-9-49500f9dfc4f)
+
