@@ -1,0 +1,45 @@
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: #ffc600;
+}
+
+.content {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 10px 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.items {
+  display: flex;
+  border-bottom: 1px solid #f1f1f1;
+  align-items: center;
+  input[type="checkbox"] {
+    margin: 20px;
+  }
+  p {
+    padding: 20px;
+    border-left: 1px solid #d1e2ff;
+    font-family:'helvetica neue';
+    font-size: 20px;
+    font-weight: 200;
+    flex: 1;
+    transition: background 0.2s;
+  }
+  &:last-child {
+    border-bottom: 0;
+  }
+  input:checked + p {
+    text-decoration: line-through;
+    background: #F9F9F9;
+  }
+}
