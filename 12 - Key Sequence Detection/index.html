@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Day 12</title>
-    <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
+    <!-- <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script> -->
 </head>
 <body>
     <h1>請輸入祕技 'ILOVEYOU'</h1>
@@ -17,7 +17,7 @@
         window.addEventListener('keyup', (e) => {
             input.push(e.key);
             input.splice(0, input.length - secretCode.length);
-            input.join('').includes(secretCode) && cornify_add();
+            input.join('').includes(secretCode) && console.log('Ding Ding!'); // cornify_add()
         })
     </script>
 </body>
