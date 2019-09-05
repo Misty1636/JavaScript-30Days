@@ -17,7 +17,7 @@
         window.addEventListener('keyup', (e) => {
             input.push(e.key);
             input.splice(0, input.length - secretCode.length);
-            input.join('').includes(secretCode) && console.log('Ding Ding!'); // cornify_add()
+            input.join('').includes(secretCode) && console.log('%c Ding Ding!','font-size: 20px; color: red;'); // cornify_add()
         })
     </script>
 </body>
