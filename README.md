@@ -22,3 +22,5 @@ Day 09 - [Demo](https://misty1636.github.io/JavaScript-30Days/09%20-%20Dev%20Too
 
 Day 10 - [Demo](https://misty1636.github.io/JavaScript-30Days/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-10-6167df3354d8)
 
+Day 11 - [Demo](https://misty1636.github.io/JavaScript-30Days/11%20-%20Custom%20Video%20Player/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-11-7852962f9972)
+
