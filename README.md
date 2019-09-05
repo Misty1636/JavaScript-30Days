@@ -24,3 +24,5 @@ Day 10 - [Demo](https://misty1636.github.io/JavaScript-30Days/10%20-%20Hold%20Sh
 
 Day 11 - [Demo](https://misty1636.github.io/JavaScript-30Days/11%20-%20Custom%20Video%20Player/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-11-7852962f9972)
 
+Day 12 - [Demo](https://misty1636.github.io/JavaScript-30Days/12%20-%20Key%20Sequence%20Detection/) / [Blog](https://medium.com/@Misty1636/javascript-30-day-12-b2f2773a0865)
+
