@@ -28,4 +28,6 @@ Day 12 - [Demo](https://misty1636.github.io/JavaScript-30Days/12%20-%20Key%20Seq
 
 Day 13 - [Demo](https://misty1636.github.io/JavaScript-30Days/13%20-%20Slide%20in%20on%20Scroll/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-13-c3313bcad861)
 
+Day 14 - [Demo](https://misty1636.github.io/JavaScript-30Days/14%20-%20JavaScript%20References%20VS%20Copying/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-14-ba166629f295)
+
 
