@@ -30,4 +30,6 @@ Day 13 - [Demo](https://misty1636.github.io/JavaScript-30Days/13%20-%20Slide%20i
 
 Day 14 - [Demo](https://misty1636.github.io/JavaScript-30Days/14%20-%20JavaScript%20References%20VS%20Copying/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-14-ba166629f295)
 
+Day 15 - [Demo](https://misty1636.github.io/JavaScript-30Days/15%20-%20LocalStorage/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-15-9474e74db8b8)
+
 
