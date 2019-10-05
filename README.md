@@ -34,4 +34,5 @@ Day 15 - [Demo](https://misty1636.github.io/JavaScript-30Days/15%20-%20LocalStor
 
 Day 16 - [Demo](https://misty1636.github.io/JavaScript-30Days/16%20-%20Mouse%20Move%20Shadow/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-16-148c46fa5039)
 
+Day 17 - [Demo](https://misty1636.github.io/JavaScript-30Days/17%20-%20Sort%20Without%20Articles/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-17-63334424e672)
 
