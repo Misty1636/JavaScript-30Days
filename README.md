@@ -36,3 +36,5 @@ Day 16 - [Demo](https://misty1636.github.io/JavaScript-30Days/16%20-%20Mouse%20M
 
 Day 17 - [Demo](https://misty1636.github.io/JavaScript-30Days/17%20-%20Sort%20Without%20Articles/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-17-63334424e672)
 
+Day 18 - [Demo](https://misty1636.github.io/JavaScript-30Days/18%20-%20Adding%20Up%20Times%20with%20Reduce/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-18-971cdc57e03)
+
