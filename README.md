@@ -41,3 +41,5 @@ Day 18 - [Demo](https://misty1636.github.io/JavaScript-30Days/18%20-%20Adding%20
 Day 19 - [Demo](https://misty1636.github.io/JavaScript-30Days/19%20-%20Webcam%20Fun/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-19-86672cf65a99)
 
 Day 20 - [Demo](https://misty1636.github.io/JavaScript-30Days/20%20-%20Speech%20Detection/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-20-6f7315faa9cc)
+
+Day 20 - [Demo](https://misty1636.github.io/JavaScript-30Days/21%20-%20Geolocation/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-21-14c7797a3a06)
