@@ -43,3 +43,5 @@ Day 19 - [Demo](https://misty1636.github.io/JavaScript-30Days/19%20-%20Webcam%20
 Day 20 - [Demo](https://misty1636.github.io/JavaScript-30Days/20%20-%20Speech%20Detection/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-20-6f7315faa9cc)
 
 Day 21 - [Demo](https://misty1636.github.io/JavaScript-30Days/21%20-%20Geolocation/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-21-14c7797a3a06)
+
+Day 22 - [Demo](https://misty1636.github.io/JavaScript-30Days/22%20-%20Follow%20Along%20Link%20Highlighter/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-22-64a751d4820b)
