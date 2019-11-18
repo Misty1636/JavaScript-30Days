@@ -47,3 +47,5 @@ Day 21 - [Demo](https://misty1636.github.io/JavaScript-30Days/21%20-%20Geolocati
 Day 22 - [Demo](https://misty1636.github.io/JavaScript-30Days/22%20-%20Follow%20Along%20Link%20Highlighter/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-22-64a751d4820b)
 
 Day 23 - [Demo](https://misty1636.github.io/JavaScript-30Days/23%20-%20Speech%20Synthesis/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-23-870c25055fc4)
+
+Day 24 - [Demo](https://misty1636.github.io/JavaScript-30Days/24%20-%20Sticky%20Nav/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-24-ede4dbb0745e)
