@@ -53,3 +53,6 @@ Day 24 - [Demo](https://misty1636.github.io/JavaScript-30Days/24%20-%20Sticky%20
 Day 25 - [Demo](https://misty1636.github.io/JavaScript-30Days/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-25-3ec2b2dd2e02)
 
 Day 26 - [Demo](https://misty1636.github.io/JavaScript-30Days/26%20-%20Stripe%20Follow%20Along%20Nav/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-26-8d890edde577)
+
+Day 27 - [Demo](https://misty1636.github.io/JavaScript-30Days/27%20-%20Click%20and%20Drag/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-27-217f830b52f1)
+
