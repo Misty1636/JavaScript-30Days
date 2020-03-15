@@ -56,3 +56,5 @@ Day 26 - [Demo](https://misty1636.github.io/JavaScript-30Days/26%20-%20Stripe%20
 
 Day 27 - [Demo](https://misty1636.github.io/JavaScript-30Days/27%20-%20Click%20and%20Drag/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-27-217f830b52f1)
 
+Day 28 - [Demo](https://misty1636.github.io/JavaScript-30Days/28%20-%20Video%20Speed%20Controller/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-28-a96844f4b5c7)
+
