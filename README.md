@@ -58,3 +58,5 @@ Day 27 - [Demo](https://misty1636.github.io/JavaScript-30Days/27%20-%20Click%20a
 
 Day 28 - [Demo](https://misty1636.github.io/JavaScript-30Days/28%20-%20Video%20Speed%20Controller/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-28-a96844f4b5c7)
 
+Day 29 - [Demo](https://misty1636.github.io/JavaScript-30Days/29%20-%20Countdown%20Timer/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-29-ea0fb84e913d)
+
