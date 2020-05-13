@@ -60,3 +60,5 @@ Day 28 - [Demo](https://misty1636.github.io/JavaScript-30Days/28%20-%20Video%20S
 
 Day 29 - [Demo](https://misty1636.github.io/JavaScript-30Days/29%20-%20Countdown%20Timer/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-29-ea0fb84e913d)
 
+Day 29 - [Demo](https://misty1636.github.io/JavaScript-30Days/30%20-%20Whack%20A%20Mole/) / [Solution](https://medium.com/@Misty1636/javascript-30-day-30-508dbb9516fd)
+
